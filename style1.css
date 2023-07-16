@@ -33,7 +33,7 @@ body {
     left: 0;
     display: none;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
     z-index: 100;
 }
   .full-img img{
